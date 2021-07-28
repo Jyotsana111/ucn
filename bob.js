@@ -1,7 +1,7 @@
 class bob{
     constructor(x,y,r){
       var options={
-        isStatic: true,
+        isStatic: true,//change it ones the roof is connected with rope and bob
         'restitution': 0.3,
         'friciton': 0.5,
         'density': 1.2
